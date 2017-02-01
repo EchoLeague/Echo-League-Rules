@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v1.0.0 (Updated 01/31/2017)** 
+**v1.0.1 (Updated 02/01/2017)** 
 
 ### Table of Contents:
 
@@ -21,7 +21,7 @@
 ## I. Registration Rules
 
 1. In order to be able to participate in this tournament, you must be adhere to all of the following requirements:
-    1. You must have at least a publicly visible Solo (or Party) MMR at time of registration
+    1. You must have at least a publicly visible Solo MMR at time of registration
     2. Your Solo MMR must not exceed 5000 MMR at time of registration. Party MMR cannot exceed 5250 MMR.
         1. Players with a major discrepancy between their solo and party MMR can be looked into if required and an assessment will be made on a case-by-case basis.
     3. Your match history and MMR must be displayed at all times on all of the following; 
