@@ -208,7 +208,7 @@
 7. All games in a series, after the first, will allow the following amount of break time, depending on the game time:
     1. 0-60 minutes: five (5) minutes of break time
     2. 60-90 minutes: ten (10) minutes of break time
-    3. 90+ minutes: fifteen (15) minutes of breakdown
+    3. 90+ minutes: fifteen (15) minutes of break time
 8. Using all chat is forbidden, and will result in warning or forfeit (as decided by administration) except in these circumstances:
     1. Explaining or discussing why a pause or issue has occurred.
     2. Wishing the other team, “Good luck, have fun” or of similar nature.
