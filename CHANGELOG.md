@@ -1,6 +1,10 @@
 # Changelog
 
-### v1.0.1 - 1/2/2017
+### v1.0.2 - 2/7/2017
+
+Fixed spelling mistake in Section VIII (from "fifteen (15) minutes of breakdown" to "fifteen (15) minutes of break time" - thanks Jek)
+
+### v1.0.1 - 2/1/2017
 
 Clarified registration MMR requirement.
 
