@@ -1,5 +1,8 @@
 # Changelog
 
+### v1.0.3 - 2/7/2017
+Clarify wording in Community Conduct section so that it is applied to all conduct within league
+
 ### v1.0.2 - 2/7/2017
 
 Fixed spelling mistake in Section VIII (from "fifteen (15) minutes of breakdown" to "fifteen (15) minutes of break time" - thanks Jek)
