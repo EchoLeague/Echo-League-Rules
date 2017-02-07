@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v1.0.2 (Updated 02/07/2017)** 
+**v1.0.3 (Updated 02/07/2017)** 
 
 ### Table of Contents:
 
@@ -219,14 +219,14 @@
 
 ## IX. Community Conduct
 
-1. Every registered player in the community discord is expected to follow the basic community guidelines:
+1. Every member of the community is expected to follow the basic community guidelines:
     1. No politics/religion chat at all.
     2. No telling people to kill or harm themselves.
     3. Minors may not post any identifying information or images
         1. This includes links to Social Media Pages
     4. No spam.
     5. No personal attacks on users/teams/admins.
-    6. No posting content which may be considered offensive, pornographic, or otherwise unsuitable (no NSFW stuff).  This includes discussion of, links to, and image/video uploads
+    6. No content which may be considered offensive, pornographic, or otherwise unsuitable (no NSFW stuff).  This includes discussion of, links to, and image/video uploads
 2. Breaking community guidelines will result in the following punishments, based on severity:
     1. Restricted chat permissions
     2. 24h-48h ban from non-essential channels.
