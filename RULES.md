@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v1.0.3 (Updated 02/07/2017)** 
+**v1.0.4 (Updated 02/10/2017)** 
 
 ### Table of Contents:
 
@@ -18,7 +18,7 @@
 
 -----
 
-## I. Registration Rules
+## I Registration Rules
 
 1. In order to be able to participate in this tournament, you must be adhere to all of the following requirements:
     1. You must have at least a publicly visible Solo MMR at time of registration
@@ -50,7 +50,7 @@
 
 -----
 
-## II. Player Rules
+## II Player Rules
 
 1. During the season, a player’s MMR must stay underneath a cap set for their division
     1. Cap will be determined at the start of the season for each division in each region
@@ -71,7 +71,7 @@
 
 -----
 
-## III. Team Rules
+## III Team Rules
 
 1. Solo players are freely able to organise and create their own teams from the 1st of February, 2017 until the 19th of February 2017
     1. If a player cannot find/form a team by the registration deadline above, they will be placed into the free-agents pool
@@ -89,7 +89,7 @@
 
 -----
 
-## IV. Team Organizers
+## IV Team Organizers
 
 1. Team Organizers must be able to fulfil the following duties for their team:
     1. Communicate and schedule with other Team Organizers to make sure that their teams can play matches during their allotted match timeframe
@@ -115,7 +115,7 @@
 
 -----
 
-## V. Stand-ins
+## V Stand-ins
 
 1. Teams are able to use **one** stand-in for games where the team is one player short for their game, as long as they meet the following requirements:
     1. They must be registered for the tournament. 
@@ -138,7 +138,7 @@
 
 -----
 
-## VI. Tournament Format
+## VI Tournament Format
 
 1. All games will be played in **Captain’s Mode**.
 2. Tournament will consist of three phases:
@@ -169,7 +169,7 @@
 
 -----
 
-## VII. Scheduling
+## VII Scheduling
 
 1. Every week in *Echo League Season 1* begins on Monday at 12:00 AM PST and ends on Sunday at 11:59 PM PST
 2. All games for the upcoming week must be scheduled by the end of the previous week, and must be scheduled within the timeframe of the upcoming week
@@ -188,13 +188,13 @@
 
 -----
 
-## VIII. Lobbies & In-Game Rules
+## VIII Lobbies & In-Game Rules
 
 1. All teams must use their official registered team name in the lobby, and only use players listed on their roster or approved stand-ins.
     1. Failure to use team name or pro name (see rule [II.3.2](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)) can result in forfeit of match.
 2. No coaches or non-caster observers are allowed in the lobby.
     1. Only exception is if an admin is hosting a ticketed lobby for you.
-3. Each team is allowed a maximum of ten minutes of pause time.
+3. Each team is allowed a maximum of ten minutes of pause time per series.
     1. Players are exempt from this rule if they must fix an in-game bug or glitch which is requiring a pause.
 4. Remakes will be done as All Pick games with the same hero selections. If you have not completed the draft, the game will be restarted and the picks/bans will be copied exactly to the same point.
 5. Only official lobbies from the tournament’s ticket will be accepted for official results.
@@ -217,7 +217,7 @@
 
 -----
 
-## IX. Community Conduct
+## IX Community Conduct
 
 1. Every member of the community is expected to follow the basic community guidelines:
     1. No politics/religion chat at all.
@@ -227,6 +227,7 @@
     4. No spam.
     5. No personal attacks on users/teams/admins.
     6. No content which may be considered offensive, pornographic, or otherwise unsuitable (no NSFW stuff).  This includes discussion of, links to, and image/video uploads
+    7. No roleplaying in chat.
 2. Breaking community guidelines will result in the following punishments, based on severity:
     1. Restricted chat permissions
     2. 24h-48h ban from non-essential channels.
@@ -241,7 +242,7 @@
 
 -----
 
-## X. Disputes
+## X Disputes
 1. Any disputes about rules, punishments, or conduct should be brought up to admins via the help page or via private message
 2. Disputes should be substantiated by screenshots, chatlogs, game logs, and/or any other relevant evidence
     1. Hearsay will be dismissed
