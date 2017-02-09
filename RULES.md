@@ -4,16 +4,16 @@
 
 ### Table of Contents:
 
-* [I. Registration Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#i-registration-rules)
-* [II. Player Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
-* [III. Team Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#iii-team-rules)
-* [IV. Team Organizers](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#iv-team-organizers)
-* [V. Stand-ins](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#v-stand-ins)
-* [VI. Tournament Format](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#vi-tournament-format)
-* [VII. Scheduling](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#vii-scheduling)
-* [VIII. Lobbies and In-Game Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#viii-lobbies--in-game-rules)
-* [IX. Community Conduct](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ix-community-conduct)
-* [X. Disputes](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#x-disputes)
+* [I Registration Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#i-registration-rules)
+* [II Player Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
+* [III Team Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#iii-team-rules)
+* [IV Team Organizers](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#iv-team-organizers)
+* [V Stand-ins](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#v-stand-ins)
+* [VI Tournament Format](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#vi-tournament-format)
+* [VII Scheduling](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#vii-scheduling)
+* [VIII Lobbies and In-Game Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#viii-lobbies--in-game-rules)
+* [IX Community Conduct](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ix-community-conduct)
+* [X Disputes](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#x-disputes)
 
 
 -----
