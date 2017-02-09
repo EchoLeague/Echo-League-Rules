@@ -1,7 +1,14 @@
 # Changelog
 
+### v1.0.4 - 2/10/2017
+
+Fixed section numbering 
+Clarified pause time in Section VIII (didn't specify that it was per series earlier)
+Added new rule under Section IX Community Conduct (No roleplaying)
+
 ### v1.0.3 - 2/7/2017
-Clarify wording in Community Conduct section so that it is applied to all conduct within league
+
+Clarified wording in Community Conduct section so that it is applied to all conduct within league
 
 ### v1.0.2 - 2/7/2017
 
