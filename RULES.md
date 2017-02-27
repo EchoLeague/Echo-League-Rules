@@ -208,6 +208,7 @@
 4. Remakes will be done as All Pick games with the same hero selections. If you have not completed the draft, the game will be restarted and the picks/bans will be copied exactly to the same point.
 5. Only official lobbies from the tournament’s ticket will be accepted for official results.
     1. If tickets, lobby-bots, or admins are unavailable at time of game start, players can create an unticketed lobby and provide proof as listed in IV.3
+    2. Lobby bots are only to be used for offical EchoLeague tournament games.  Abuse of lobby bots can result in being banned from league at admin discretion.  Any lobby bot issues should be reported to admins immediately
 6. Teams who are late for their scheduled games are liable to the following punishment:
     1. Ten (10) minutes - Loss of all reserve draft time
     2. Fifteen (15) minutes - Team must forfeit the first game of the series.
@@ -229,7 +230,6 @@
     2. Losing team will then choose the remaining option and their preference
     3. For game two, the order is flipped.  The team that lost the coinflip will now choose the server played on, and then pick order or side of their choosing.  Team that won the coinflip will choose the remaining option and their preference
     4. Repeat the coinflip for games 3 and 5 as needed
-
 -----
 
 ## IX Community Conduct
