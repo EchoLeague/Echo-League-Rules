@@ -1,5 +1,8 @@
 # Changelog
 
+### v1.1.0 - 2/26/2017
+Updated lobby rules to include server choice division advancements rules
+
 ### v1.0.4 - 2/10/2017
 
 Fixed section numbering 

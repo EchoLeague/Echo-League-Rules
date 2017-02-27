@@ -1,6 +1,7 @@
 # Echo League Rules
 
-**v1.0.4 (Updated 02/10/2017)** 
+**v1.1.0 (Updated 02/26/2017)** 
+=======
 
 ### Table of Contents:
 
@@ -104,12 +105,13 @@
     2. Add players to roster
         1. Added player must already be a “free-agent”
         2. Added players cannot increase the roster size past seven (7) players.
-        3. If a potential new player has recently left  a team, they must have waited at least one (1) game week before joining a new team in accordance with rule [II.4.1](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
-        4. Players cannot be added to a team after April 2nd, 11:59 PM PST
-        5. Added players must meet the following criteria in regards to their Skill Level:
+        3. Player cannot be banned from EchoLeague
+        4. If a potential new player has recently left  a team, they must have waited at least one (1) game week before joining a new team in accordance with rule [II.4.1](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
+        5. Players cannot be added to a team after April 2nd, 11:59 PM PST
+        6. Added players must meet the following criteria in regards to their Skill Level:
             1. If you are adding a fourth (4th) or fifth (5th) player to your roster, you can add any player who is either less than or equal to the current MMR of the player(s) lost OR any player that does not move you into a higher skill division.
             2. If you are adding a sixth (6th) or seventh (7th) player to your roster, you can add any player who does not move you into a higher skill division.
-        6. Each team is allowed two automatic “adds” if the added players meet all the above criteria
+        7. Each team is allowed two automatic “adds” if the added players meet all the above criteria
             1. Any addition to a team past after the 2nd player will only be allowed at admin team discretion *(N.B. Your current skill bracket is calculated by the MMR of your 5 highest skilled players)*
 4. If a team feels like their Team Organizer is unfit in his duties, they can choose to nominate a new player and either remove or demote the current Team Organizer by a unanimous decision.
 
@@ -142,14 +144,20 @@
 
 1. All games will be played in **Captain’s Mode**.
 2. Tournament will consist of three phases:
-    1. A 5-Week Group stage
-        1. 6-Team groups will play a Round-Robin over the course of 5 weeks
-        2. Depending on Division size, either the top two, or top one team will advance to playoffs (this will be determined at the end of registration for each division)
+    1. Group Stage
+        1. Groups will play a Round-Robin until they have played each opponent at least once
+        2. Top seeds in each group will advance
+            1. Determined on a per-division basis
+            2. Seeds will be determined based off the 'Intra-Group' system listed in TIEBREAKERS
+        3. Any remaining playoff spots will go to a number of 'wildcard' teams in each division
+            1. Teams considered for wildcard spots will be done on a per-division basis
+            2. Wildcards will advance based on the 'Inter-Group' system listed in TIEBREAKERS
     2. One week break after group stages
         1. This will be used for any tiebreaker playoffs, and for organizing for playoffs 
     3. Single Elimination playoffs
+        1. Will consist of 16/8/4 teams as determined on a per-divison basis, based off of the division size
 3. Each region will have 3 Divisions: An A-Tier, B-Tier, and C-Tier Division
-    1. If some regions are underpopulated, we may reduce the number of tiers to help better fill divisions.  Group sizes may also be adjusted to better serve underpopulated divisions
+    1. If some regions are underpopulated, we may reduce the number of tiers to help better fill divisions.  Group sizes or team placements may also be adjusted to better serve underpopulated divisions
 4. Each division will be limited to the number of teams allowed
     1. There must be enough teams to fill enough groups to allow for  4, 8, or 16 playoff teams
     2. Some groups may be padded with "BYE WEEK" teams if there are not enough registrations
@@ -159,6 +167,7 @@
     1. Group stage games will be a best of two.
     2. Plaoff stage games will be a best of three.
     3. The grand final will be a best of five.
+    4. Tiebreakers will be decided by admins based on time constraints
 6. We will try to have a ticket approved for games to be played, but if there are delays (as there have been in the past), we will have lobbies off-ticket if admins are unavailable
     1. For games played off-ticket, the winning team must provide the following screenshots to have their game counted as official:
         1. Screenshot of the final “picks and bans” screen (from replay)
@@ -214,6 +223,12 @@
     2. Wishing the other team, “Good luck, have fun” or of similar nature.
     3. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
 9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in forfeit of game
+10. Pick order, Side, and Server will be determined in the following way:
+    1. Teams will flip a coin for Game 1. Winning team will choose either the pick order or side.
+        1. If there is a difference in preferred servers, winning team will also pick server for game 1
+    2. Losing team will then choose the remaining option and their preference
+    3. For game two, the order is flipped.  The team that lost the coinflip will now choose the server played on, and then pick order or side of their choosing.  Team that won the coinflip will choose the remaining option and their preference
+    4. Repeat the coinflip for games 3 and 5 as needed
 
 -----
 
