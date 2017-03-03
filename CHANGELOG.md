@@ -1,5 +1,8 @@
 # Changelog
 
+### v1.1.1 - 3/03/2017
+Clarify GG rule in respects to how a game should end
+
 ### v1.1.0 - 2/26/2017
 Updated lobby rules to include server choice division advancements rules
 
