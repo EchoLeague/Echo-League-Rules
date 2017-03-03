@@ -223,7 +223,7 @@
     1. Explaining or discussing why a pause or issue has occurred.
     2. Wishing the other team, “Good luck, have fun” or of similar nature.
     3. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
-        1. Upon calling GG, the game will be ended immediately.  If the GG call is cancelled, the player will wait until the offending team is able to re-call GG and end the game properly
+        1. Upon calling GG, the game will be ended immediately.  If the GG call is cancelled, the players will wait until the offending team is able to re-call GG and end the game properly
 9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in forfeit of game
 10. Pick order, Side, and Server will be determined in the following way:
     1. Teams will flip a coin for Game 1. Winning team will choose either the pick order or side.
