@@ -1,6 +1,9 @@
 # Changelog
 
-### v1.1.1 - 3/03/2017
+### v1.2.0 - 3/3/2017
+Rework GG and All-Chat rules to be a little more forgiving
+
+### v1.1.1 - 3/3/2017
 Clarify GG rule in respects to how a game should end
 
 ### v1.1.0 - 2/26/2017

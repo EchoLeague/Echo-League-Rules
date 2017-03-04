@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v1.1.1 (Updated 03/03/2017)** 
+**v1.2.0 (Updated 03/03/2017)** 
 =======
 
 ### Table of Contents:
@@ -222,8 +222,10 @@
 8. Using all chat is forbidden, and will result in warning or forfeit (as decided by administration) except in these circumstances:
     1. Explaining or discussing why a pause or issue has occurred.
     2. Wishing the other team, “Good luck, have fun” or of similar nature.
-    3. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
-        1. Upon calling GG, the game will be ended immediately.  If the GG call is cancelled, the players will wait until the offending team is able to re-call GG and end the game properly
+    3. Incidental typing, such as putting a rosh timer in all-chat instead of team chat, or an errant letter or number when moving quickly (e.g. "qwrr   22").  This does not apply to anything greater than that.
+    4. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
+        1. If GG is called accidentally (though ChatWheel, etc) and subsequently cancelled, the offending team must say in all-chat that they have cancelled the GG so there is no confusion. Every cancelled GG will be reviewed by the admin team to ensure that it did not impact the outcome of the game
+        2. Every cancelled GG will also be considered an 'all-chat' violation and be subject to punishment in accordance with rule VIII.9
 9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in forfeit of game
 10. Pick order, Side, and Server will be determined in the following way:
     1. Teams will flip a coin for Game 1. Winning team will choose either the pick order or side.
