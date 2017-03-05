@@ -155,7 +155,7 @@
     2. One week break after group stages
         1. This will be used for any tiebreaker playoffs, and for organizing for playoffs 
     3. Single Elimination playoffs
-        1. Will consist of 16/8/4 teams as determined on a per-divison basis, based off of the division size
+        1. Will consist of 16/8/4 teams as determined on a per-division basis, based off of the division size
 3. Each region will have 3 Divisions: An A-Tier, B-Tier, and C-Tier Division
     1. If some regions are underpopulated, we may reduce the number of tiers to help better fill divisions.  Group sizes or team placements may also be adjusted to better serve underpopulated divisions
 4. Each division will be limited to the number of teams allowed
@@ -165,7 +165,7 @@
         1. Teams will be removed recentness of team registration date
 5. The following match types and their series lengths are as follows:
     1. Group stage games will be a best of two.
-    2. Plaoff stage games will be a best of three.
+    2. Playoff stage games will be a best of three.
     3. The grand final will be a best of five.
     4. Tiebreakers will be decided by admins based on time constraints
 6. We will try to have a ticket approved for games to be played, but if there are delays (as there have been in the past), we will have lobbies off-ticket if admins are unavailable
@@ -208,13 +208,13 @@
 4. Remakes will be done as All Pick games with the same hero selections. If you have not completed the draft, the game will be restarted and the picks/bans will be copied exactly to the same point.
 5. Only official lobbies from the tournament’s ticket will be accepted for official results.
     1. If tickets, lobby-bots, or admins are unavailable at time of game start, players can create an unticketed lobby and provide proof as listed in IV.3
-    2. Lobby bots are only to be used for offical EchoLeague tournament games.  Abuse of lobby bots can result in being banned from league at admin discretion.  Any lobby bot issues should be reported to admins immediately
+    2. Lobby bots are only to be used for official EchoLeague tournament games.  Abuse of lobby bots can result in being banned from league at admin discretion.  Any lobby bot issues should be reported to admins immediately
 6. Teams who are late for their scheduled games are liable to the following punishment:
     1. Ten (10) minutes - Loss of all reserve draft time
     2. Fifteen (15) minutes - Team must forfeit the first game of the series.
     3. Twenty (20) minutes - Team must forfeit the series.
     4. Late time does not accrue during Valve server downtime.
-    5. Finding a standin at game time counts towards late time.
+    5. Finding a stand-in at game time counts towards late time.
 7. All games in a series, after the first, will allow the following amount of break time, depending on the game time:
     1. 0-60 minutes: five (5) minutes of break time
     2. 60-90 minutes: ten (10) minutes of break time
