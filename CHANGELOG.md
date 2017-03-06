@@ -1,5 +1,8 @@
 # Changelog
 
+### v1.2.1 - 3/5/2017
+Minor spelling fixes from PR
+
 ### v1.2.0 - 3/3/2017
 Rework GG and All-Chat rules to be a little more forgiving
 
