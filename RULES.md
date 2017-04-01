@@ -1,6 +1,6 @@
 # Echo League Rules
 
-**v1.2.0 (Updated 03/03/2017)** 
+**v1.3.0 (Updated 04/01/2017)** 
 =======
 
 ### Table of Contents:
@@ -69,6 +69,7 @@
         * **(e.g. If you play in a week 2 game, then leave your team, you will not be eligible to play again until week 4)**
 5. Administrators are forbidden from participating in the tournament as coaches, managers, players, or stand-ins
     1. Admins __are__ allowed to participate as casters, statspeople, observers, or in any other production roles
+6. Using robot hands (e.g. Robot Devil/Fry from Futurama fiasco), is expressly forbidden
 
 -----
 
@@ -107,7 +108,7 @@
         2. Added players cannot increase the roster size past seven (7) players.
         3. Player cannot be banned from EchoLeague
         4. If a potential new player has recently left  a team, they must have waited at least one (1) game week before joining a new team in accordance with rule [II.4.1](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
-        5. Players cannot be added to a team after April 2nd, 11:59 PM PST
+        5. Players cannot be added to a team after April 9th, 11:59 PM PST
         6. Added players must meet the following criteria in regards to their Skill Level:
             1. If you are adding a fourth (4th) or fifth (5th) player to your roster, you can add any player who is either less than or equal to the current MMR of the player(s) lost OR any player that does not move you into a higher skill division.
             2. If you are adding a sixth (6th) or seventh (7th) player to your roster, you can add any player who does not move you into a higher skill division.
@@ -137,6 +138,8 @@
     1. If unapproved stand-ins were used after being explicitly banned or disallowed by administration, the entire series is liable for forfeit.
 7. Teams and players cannot agree to make a stand-in approved.  Only stand-ins approved by admins are considered valid and playable.
     1. Breaking this rule will result in punishment according to [V.6](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#v-stand-ins)
+8. For Playoffs, standins may only be used in *exceptional* circumstances, and will be approved on a case-by-case basis by admins.
+    1. Playoff standins cannot be on a team still competing in the playoffs at time of standing-in
 
 -----
 

@@ -1,5 +1,9 @@
 # Changelog
 
+### v1.3.0 - 4/1/2017
+Update standin rules & dates for the playoffs
+Update robot augmentation rules
+
 ### v1.2.0 - 3/3/2017
 Rework GG and All-Chat rules to be a little more forgiving
 
