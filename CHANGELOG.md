@@ -1,6 +1,8 @@
 # Changelog
 
-<<<<<<< HEAD
+### v2.0.0 - 5/9/2017
+Season 2 rules and adjustments
+
 ### v1.3.0 - 4/1/2017
 Update standin rules & dates for the playoffs
 Update robot augmentation rules

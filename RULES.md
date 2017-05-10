@@ -1,10 +1,8 @@
 # Echo League Rules
 
-<<<<<<< HEAD
-**v1.3.0 (Updated 04/01/2017)** 
-=======
-**v1.2.1 (Updated 03/05/2017)** 
->>>>>>> 03cba9ae4d04c75597d847aeb7a66614efa06b4a
+
+**v2.0.0 (Updated 05/09/2017)** 
+
 =======
 
 ### Table of Contents:
@@ -18,7 +16,8 @@
 * [VII Scheduling](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#vii-scheduling)
 * [VIII Lobbies and In-Game Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#viii-lobbies--in-game-rules)
 * [IX Community Conduct](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ix-community-conduct)
-* [X Disputes](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#x-disputes)
+* [X Casters and Broadcasting](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#x-casters-and-broadcasting)
+* [XI Disputes](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#xi-disputes)
 
 
 -----
@@ -27,27 +26,21 @@
 
 1. In order to be able to participate in this tournament, you must be adhere to all of the following requirements:
     1. You must have at least a publicly visible Solo MMR at time of registration
-    2. Your Solo MMR must not exceed 5000 MMR at time of registration. Party MMR cannot exceed 5250 MMR.
+    2. Your Solo MMR must not exceed 5500 MMR at time of registration. Party MMR cannot exceed 5750 MMR.
         1. Players with a major discrepancy between their solo and party MMR can be looked into if required and an assessment will be made on a case-by-case basis.
-    3. Your match history and MMR must be displayed at all times on all of the following; 
+    3. You must have a "Prime" Dota 2 account (must have a phone number tied to the account, and be allowed to play ranked queue)
+    4. Your match history and MMR must be displayed at all times on all of the following; 
         1. Dota Client.
         2. Dotabuff/OpenDota.
 2. Falsifying any registration data to bypass the tournament filters in order to be able to participate in the tournament will result in an immediate ban from the tournament.
     1. If proof of falsified information is found during the tournament, results of every game that player has participated in are liable to forfeit, retroactively
     2. Any team with a fraudulent player will be disqualified from the tournament and potentially barred from future seasons of Echo League
         1. This rule __may__ be bypassed for teams which self-report players with fraudulent accounts on their teams
-3. Registration deadline is the 19th of February 2017, 11:59 PM PST. After the deadline, no new players will be accepted into the league for the first season of Echo League.
+3. Registration deadline is the 31st of May 2017, 11:59 PM PDT. After the deadline, no new players or teams will be accepted into the league for the second season of Echo League.
 4. You may only register one account to play in this tournament.
     1. Registration of multiple accounts owned by the same person will result in all accounts being banned.
-    2. Account registered must be the highest skilled account belonging an individual.  Registering with “smurf” accounts is forbidden and will result in a punishment in accordance with [I.2](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#i-registration-rules)
 5. You may only register with an account that belongs to you exclusively. No account sharing is allowed.
-6. If you own multiple accounts you must use the one with the highest MMR values
-    1. If it is the case that between two accounts, one has a higher Party MMR, and one has a higher Solo MMR, the individual must register with the account that has the highest MMR value (Party OR Solo), once 250 is subtracted from the Party MMR Value
-
-
-        *(e.g. If one account is Solo: 4000, Party: 3800, and the other is Solo: 3900, Party: 4500, then you should register with the second account, as (4500-250)MMR > 4000MMR)*
-
-    2. Registration processes will flag accounts with unusual match history to be personally reviewed by the administration team.
+6. Your account registere must be your highest MMR "prime" account (phone number linked).  If you own other, "non-prime" accounts with higher MMR, admins must be contacted immediately after registration, or users will be punished in accordance with rule [I.2](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#i-registration-rules)
 7. You can only be registered to one team at a time regardless of division or region. 
     1. The player is ineligible to join another team until he/she is removed from their current team. This process must be approved by an administrator.
 8. If there are any problems or discrepancies with the information generated at registration, it is the player’s responsibility to inform the admin team of such issues.  
@@ -64,25 +57,26 @@
 2. Your match history and MMR must be displayed at all times on all of the following; 
     1. OpenDota/Dotabuff
     2. Dota Client
-3. At the start of week 1, your name on the website must match the name listed for you within the TEAM tab within client (sans Sponsor and Team Abbreviation).  You can change your pro name by editing it in My Pro-Info which can be found in the TEAM tab which is beside the FRIENDS tab.
+3. Your Pro-Name must match your Echo League name set at signup (sans Sponsor and Team Abbreviation).
     1. Failure to have a proper “pro name” set within the client can result in penalties if extra time is spent verifying your team roster
     2. All “Team Organizers” must be registered on the community Discord server, using their official “pro name” so other players can easily identify and contact them
         1. Failure to do so will leave you responsible should any late scheduling issues arise due to other captains/admins being unable to locate you
+        2. Players can request admins in Discord set a nickname that shows their proper EL Name in the community Discord
 4. Players can leave their active team at any time they are not in a match.
     1. After leaving a team intentionally or through team disband, a player must wait one (1) game week before joining a new team or standing-in and playing as an active member of that roster
         * **(e.g. If you play in a week 2 game, then leave your team, you will not be eligible to play again until week 4)**
 5. Administrators are forbidden from participating in the tournament as coaches, managers, players, or stand-ins
-    1. Admins __are__ allowed to participate as casters, statspeople, observers, or in any other production roles
+    1. Admins __are__ allowed to participate as casters, stats-people, observers, or in any other production roles
 6. Using robot hands (e.g. Robot Devil/Fry from Futurama fiasco), is expressly forbidden
 
 -----
 
 ## III Team Rules
 
-1. Solo players are freely able to organise and create their own teams from the 1st of February, 2017 until the 19th of February 2017
+1. Solo players are freely able to organise and create their own teams until the 31st of May 2017, at 23:59 PDT
     1. If a player cannot find/form a team by the registration deadline above, they will be placed into the free-agents pool
 2. Teams can only have a maximum of seven members on the roster at any one time. However, a team must have at least five active members on the roster at all times
-    1. You have until end of each week (Sunday @ 11:59 PM PST) to fulfil the minimum roster requirements
+    1. You have until end of each week (Sunday @ 11:59 PM PDT) to fulfil the minimum roster requirements
         1. In cases where a team member leaves within two days of the end-of-week, there were will be a grace period of two extra days to find a replacement player.
 3. Teams are expected to play all series assigned to them in EchoLeague Season 1.  If a Team misses two series, they will be disbanded and all players will be moved to “free-agent” status
 4. A roster must consist of the following:
@@ -112,7 +106,7 @@
         2. Added players cannot increase the roster size past seven (7) players.
         3. Player cannot be banned from EchoLeague
         4. If a potential new player has recently left  a team, they must have waited at least one (1) game week before joining a new team in accordance with rule [II.4.1](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
-        5. Players cannot be added to a team after April 9th, 11:59 PM PST
+        5. Players cannot be added to a team after July 23rd, 11:59 PM PDT
         6. Added players must meet the following criteria in regards to their Skill Level:
             1. If you are adding a fourth (4th) or fifth (5th) player to your roster, you can add any player who is either less than or equal to the current MMR of the player(s) lost OR any player that does not move you into a higher skill division.
             2. If you are adding a sixth (6th) or seventh (7th) player to your roster, you can add any player who does not move you into a higher skill division.
@@ -150,19 +144,20 @@
 ## VI Tournament Format
 
 1. All games will be played in **Captain’s Mode**.
-2. Tournament will consist of three phases:
+2. Tournament will consist of four phases:
     1. Group Stage
         1. Groups will play a Round-Robin until they have played each opponent at least once
         2. Top seeds in each group will advance
             1. Determined on a per-division basis
-            2. Seeds will be determined based off the 'Intra-Group' system listed in TIEBREAKERS
+            2. Seeds & placement will be determined based off the 'Intra-Group' system listed in [TIEBREAKERS](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
         3. Any remaining playoff spots will go to a number of 'wildcard' teams in each division
             1. Teams considered for wildcard spots will be done on a per-division basis
-            2. Wildcards will advance based on the 'Inter-Group' system listed in TIEBREAKERS
-    2. One week break after group stages
+            2. Wildcards will advance based on the 'Inter-Group' system listed in [TIEBREAKERS](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
+    2. Two week break after group stages
         1. This will be used for any tiebreaker playoffs, and for organizing for playoffs 
     3. Single Elimination playoffs
         1. Will consist of 16/8/4 teams as determined on a per-division basis, based off of the division size
+        2. After the second round of playoffs, there will be a one-week intermission before the third round during TI7 (Aug 6th-12th)
 3. Each region will have 3 Divisions: An A-Tier, B-Tier, and C-Tier Division
     1. If some regions are underpopulated, we may reduce the number of tiers to help better fill divisions.  Group sizes or team placements may also be adjusted to better serve underpopulated divisions
 4. Each division will be limited to the number of teams allowed
@@ -181,15 +176,15 @@
         2. Screenshot of end-game overview with matchID and timestamp
         3. Screenshot of the end-game scoreboard
     2. Failure to provide screenshots within a timely manner, to admins, will result in a series being ruled as a forfeit
-7. If there are ties at end of groups, tie will be settled in accordance with our [TIEBREAKER RULES](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
 
 -----
 
 ## VII Scheduling
 
-1. Every week in *Echo League Season 1* begins on Monday at 12:00 AM PST and ends on Sunday at 11:59 PM PST
-2. All games for the upcoming week must be scheduled by the end of the previous week, and must be scheduled within the timeframe of the upcoming week
-    1. If there are extenuating circumstances preventing teams from playing during their assigned week, they can reach out to the Staff to try and arrange an off-schedule game.  These will only be allowed when there are no other options, when it will not impact future games, and when the staff has been given enough notice to arrange an alternative solution.
+1. Every week in *Echo League Season 1* begins on Monday at 12:00 AM PDT and ends on Sunday at 11:59 PM PDT
+2. All games for the upcoming week must be scheduled by the end of the previous week
+    1. During groups, you must schedule with your "suggested opponent" by the end of your "suggested week".  You and that opponent are free to play outside that week (earlier or later), as long as it is before the end of group stages, if **both teams** agree, otherwise you should play on your suggested week to avoid conflict
+    2. For playoffs, if there are extenuating circumstances preventing teams from playing during their assigned week, they can reach out to the Staff to try and arrange an off-schedule game.  These will only be allowed when there are no other options, when it will not impact future games, and when the staff has been given enough notice to arrange an alternative solution.
 3. Games must be scheduled on the Echo League website to be officially counted as “scheduled by deadline”.
 4. Failure of both teams to schedule by the deadline will result in a null-series (no points awarded to either team) in the official scoring.
     1. In the playoffs, this will result in the next team receiving a bye week
@@ -207,14 +202,17 @@
 ## VIII Lobbies & In-Game Rules
 
 1. All teams must use their official registered team name in the lobby, and only use players listed on their roster or approved stand-ins.
-    1. Failure to use team name or pro name (see rule [II.3.2](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)) can result in forfeit of match.
+    1. Failure to use team name or pro name (see rule [II.3.2](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)) can result in penalty or forfeit of match.
 2. No coaches or non-caster observers are allowed in the lobby.
     1. Only exception is if an admin is hosting a ticketed lobby for you.
 3. Each team is allowed a maximum of ten minutes of pause time per series.
     1. Players are exempt from this rule if they must fix an in-game bug or glitch which is requiring a pause.
 4. Remakes will be done as All Pick games with the same hero selections. If you have not completed the draft, the game will be restarted and the picks/bans will be copied exactly to the same point.
+    1. A remake may be initiated at any point in the game if both teams agree.
+    2. A remake may be initiated by only ONE team if it is done before the horn (due to lag/server issues being recognized)
+    3. Remakes may not be made for personal issues (individual player internet, computer issues, personal time issues)
 5. Only official lobbies from the tournament’s ticket will be accepted for official results.
-    1. If tickets, lobby-bots, or admins are unavailable at time of game start, players can create an unticketed lobby and provide proof as listed in IV.3
+    1. If tickets, lobby-bots, or lobby creators are unavailable at time of game start, players can create an unticketed lobby and provide proof as listed in IV.3
     2. Lobby bots are only to be used for official EchoLeague tournament games.  Abuse of lobby bots can result in being banned from league at admin discretion.  Any lobby bot issues should be reported to admins immediately
 6. Teams who are late for their scheduled games are liable to the following punishment:
     1. Ten (10) minutes - Loss of all reserve draft time
@@ -228,12 +226,13 @@
     3. 90+ minutes: fifteen (15) minutes of break time
 8. Using all chat is forbidden, and will result in warning or forfeit (as decided by administration) except in these circumstances:
     1. Explaining or discussing why a pause or issue has occurred.
-    2. Wishing the other team, “Good luck, have fun” or of similar nature.
-    3. Incidental typing, such as putting a rosh timer in all-chat instead of team chat, or an errant letter or number when moving quickly (e.g. "qwrr   22").  This does not apply to anything greater than that.
-    4. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
+    2. Polite pause-time discussion.
+    3. Wishing the other team, “Good luck, have fun” or of similar nature.
+    4. Incidental typing, such as putting a rosh timer in all-chat instead of team chat, or an errant letter or number when moving quickly (e.g. "qwrr   22").  This does not apply to anything greater than that.
+    5. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
         1. If GG is called accidentally (though ChatWheel, etc) and subsequently cancelled, the offending team must say in all-chat that they have cancelled the GG so there is no confusion. Every cancelled GG will be reviewed by the admin team to ensure that it did not impact the outcome of the game
         2. Every cancelled GG will also be considered an 'all-chat' violation and be subject to punishment in accordance with rule VIII.9
-9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in forfeit of game
+9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in forfeit of game.
 10. Pick order, Side, and Server will be determined in the following way:
     1. Teams will flip a coin for Game 1. Winning team will choose either the pick order or side.
         1. If there is a difference in preferred servers, winning team will also pick server for game 1
@@ -244,14 +243,14 @@
 
 ## IX Community Conduct
 
-1. Every member of the community is expected to follow the basic community guidelines:
+1. Every member of the community is expected to follow the basic community guidelines when talking **in-game**, in **Discord** or in **game lobbies**:
     1. No politics/religion chat at all.
     2. No telling people to kill or harm themselves.
-    3. Minors may not post any identifying information or images
-        1. This includes links to Social Media Pages
+    3. Minors may not post any identifying information or images.
+        1. This includes links to Social Media Pages.
     4. No spam.
     5. No personal attacks on users/teams/admins.
-    6. No content which may be considered offensive, pornographic, or otherwise unsuitable (no NSFW stuff).  This includes discussion of, links to, and image/video uploads
+    6. No content which may be considered offensive, pornographic, or otherwise unsuitable (nothing NSFW).  This includes discussion of, links to, using 3rd party emotes of, and image/video uploads.
     7. No roleplaying in chat.
 2. Breaking community guidelines will result in the following punishments, based on severity:
     1. Restricted chat permissions
@@ -262,14 +261,38 @@
     5. Removal from league.
 3. Doxxing anyone in Echo League servers will result in immediate bans and removal from current and future instances of Echo League
 4. Creating alternate discord accounts to circumvent chat bans will result in removal from the league.
-5. Community standards will also extend to pre-game lobbies, and in-game chat.
+5. No harassing other users or staff
+    1. This includes repeated, unwanted private messages, repeated mentions or pings in public channels, or any other unwanted communication through any means. 
 6. Any rules above with punishments not explicitly defined will be assessed and levied by the admin team on a case-by-case basis.
 
 -----
 
-## X Disputes
-1. Any disputes about rules, punishments, or conduct should be brought up to admins via the help page or via private message
-2. Disputes should be substantiated by screenshots, chatlogs, game logs, and/or any other relevant evidence
+## X Casters and Broadcasting
+1. Only approved casters are allowed to cast from ticket in lobby.
+    1. Approved casters who attempt to bring in unapproved casters may be blacklisted from casting in Echo League.
+    2. Individuals explicitly told not to cast from lobby will be banned from Echo League if they cast from a lobby on ticket
+    3. Anyone may stream and cast Echo League games from DotATV outside of lobby.
+2. Echo League reserves the right to cast any and all games played on its ticket.
+    1. If there is a legitimate concern players may have about their game being casted from ticket, admins may be contacted to mediate.
+3. Casters are expected to behave professionally both in and out of game.
+    1. This includes while casting, introducing/closing Echo League related streams, pre-game lobbies, and interacting with the community.
+    2. Casters are expected show up to lobbies on time. Players cannot be expected to wait for casters, but may choose to do so at the expense of their late penalty as detailed in xxxxxxxxxx.
+4. Casters may not interfere with the game they are casting.
+    1. All chat in-game is not permitted. Exceptions can be made for simple answers to questions, such as “This is a Best of 2 series.” or when communicating on behalf on an admin.
+    2. Casters may not pause or request pauses.
+5. Relaying information to players during a game is strictly prohibited. Casters who violate this will be banned from casting and participating in Echo League.
+    1. When casting from lobby on ticket, any streams must have a 5 minute delay.
+6. Casters are expected to read and follow the rules of Echo League.
+    1. Casting for Echo League on ticket is a privilege which may revoked at the discretion of an admin in accordance with Echo League rules.
+    2. Casters must report any suspected violation of rules to an admin. They may be asked for relevant information in order to help admins in their duties.
+
+-----
+
+## XI Disputes & Admin Enforcement
+1. All official admins (Echo League Staff) have the ability to enforce any of the above rules as they see fit.  Any regional moderators have the ability to enforce late-penalties and lobby-related punishments.
+2. Any disputes about rules, punishments, or conduct should be brought up to admins via the help page or via private message
+3. Disputes should be substantiated by screenshots, chatlogs, game logs, and/or any other relevant evidence
     1. Hearsay will be dismissed
-3. For any uncovered cases or edge-cases, admins will make a ruling on a case-by-case basis, inform all involved, and amend/update the rules to reflect the decision
-4. Any appeals to bans/suspensions/penalties can be directed to a staff member for further review
+4. For any uncovered cases or edge-cases, admins will make a ruling on a case-by-case basis, inform all involved, and amend/update the rules to reflect the decision
+5. The admins may at any point amend and change the rules, but will inform the entire playerbase of any changes that occur
+6. Any appeals to bans/suspensions/penalties can be directed to a staff member for further review
