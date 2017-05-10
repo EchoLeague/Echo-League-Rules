@@ -36,7 +36,7 @@
     1. If proof of falsified information is found during the tournament, results of every game that player has participated in are liable to forfeit, retroactively
     2. Any team with a fraudulent player will be disqualified from the tournament and potentially barred from future seasons of Echo League
         1. This rule __may__ be bypassed for teams which self-report players with fraudulent accounts on their teams
-3. Registration deadline is the 1st of June 2017, 11:59 PM PDT. After the deadline, no new players or teams will be accepted into the league for the second season of Echo League.
+3. Registration deadline is the 31st of May 2017, 11:59 PM PDT. After the deadline, no new players or teams will be accepted into the league for the second season of Echo League.
 4. You may only register one account to play in this tournament.
     1. Registration of multiple accounts owned by the same person will result in all accounts being banned.
 5. You may only register with an account that belongs to you exclusively. No account sharing is allowed.
@@ -73,7 +73,7 @@
 
 ## III Team Rules
 
-1. Solo players are freely able to organise and create their own teams from the 1st of June 2017, at 23:59 PDT
+1. Solo players are freely able to organise and create their own teams until the 31st of May 2017, at 23:59 PDT
     1. If a player cannot find/form a team by the registration deadline above, they will be placed into the free-agents pool
 2. Teams can only have a maximum of seven members on the roster at any one time. However, a team must have at least five active members on the roster at all times
     1. You have until end of each week (Sunday @ 11:59 PM PDT) to fulfil the minimum roster requirements
