@@ -181,7 +181,7 @@
 
 ## VII Scheduling
 
-1. Every week in *Echo League Season 1* begins on Monday at 12:00 AM PDT and ends on Sunday at 11:59 PM PDT
+1. Every week in an *Echo League Season* begins on Monday at 12:00 AM PDT and ends on Sunday at 11:59 PM PDT
 2. All games for the upcoming week must be scheduled by the end of the previous week
     1. During groups, you must schedule with your "suggested opponent" by the end of your "suggested week".  You and that opponent are free to play outside that week (earlier or later), as long as it is before the end of group stages, if **both teams** agree, otherwise you should play on your suggested week to avoid conflict
     2. For playoffs, if there are extenuating circumstances preventing teams from playing during their assigned week, they can reach out to the Staff to try and arrange an off-schedule game.  These will only be allowed when there are no other options, when it will not impact future games, and when the staff has been given enough notice to arrange an alternative solution.
