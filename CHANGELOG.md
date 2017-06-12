@@ -1,5 +1,9 @@
 # Changelog
 
+### v2.0.1 - 6/11/2017
+Clarify harassment rules.
+Add case regarding TI All-Chat voices 
+
 ### v2.0.0 - 5/9/2017
 Season 2 rules and adjustments
 
