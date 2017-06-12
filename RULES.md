@@ -261,9 +261,9 @@
     5. Removal from league.
 3. Doxxing anyone in Echo League servers will result in immediate bans and removal from current and future instances of Echo League
 4. Creating alternate discord accounts to circumvent chat bans will result in removal from the league.
-5. No harassing other users or staff
-    1. This includes repeated, unwanted private messages, repeated mentions or pings in public channels, or any other unwanted communication through any means.
-    2. Harassment does not need to occur within context of the league.  If someone is actively singling out or harassing an individual and they are league member they can be punished under this rule.
+5. No harassing others
+    1. This includes repeated, unwanted private messages, repeated mentions or pings in public channels, or any other unwanted communication or directed actions through any means.
+    2. Harassment does not need to occur within context of the league.  If a member of Echo League is actively singling out or harassing an individual they can be punished under this rule.
 6. Any rules above with punishments not explicitly defined will be assessed and levied by the admin team on a case-by-case basis.
 
 -----
