@@ -1,7 +1,7 @@
 # Echo League Rules
 
 
-**v2.0.0 (Updated 05/09/2017)** 
+**v2.1.0 (Updated 06/13/2017)** 
 
 =======
 
@@ -107,10 +107,11 @@
         3. Player cannot be banned from EchoLeague
         4. If a potential new player has recently left  a team, they must have waited at least one (1) game week before joining a new team in accordance with rule [II.4.1](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ii-player-rules)
         5. Players cannot be added to a team after July 23rd, 11:59 PM PDT
-        6. Added players must meet the following criteria in regards to their Skill Level:
-            1. If you are adding a fourth (4th) or fifth (5th) player to your roster, you can add any player who is either less than or equal to the current MMR of the player(s) lost OR any player that does not move you into a higher skill division.
-            2. If you are adding a sixth (6th) or seventh (7th) player to your roster, you can add any player who does not move you into a higher skill division.
-        7. Each team is allowed two automatic “adds” if the added players meet all the above criteria
+        6. Player must be eligible to play in your division
+            1. Eligibility is determined by individual skill level at time of registration closing
+        7. Player must be below the mid-season MMR cap
+        8. Added players cannot not move you into a higher skill division.
+        9. Each team is allowed two automatic “adds” if the added players meet all the above criteria
             1. Any addition to a team past after the 2nd player will only be allowed at admin team discretion *(N.B. Your current skill bracket is calculated by the MMR of your 5 highest skilled players)*
 4. If a team feels like their Team Organizer is unfit in his duties, they can choose to nominate a new player and either remove or demote the current Team Organizer by a unanimous decision.
 
@@ -122,6 +123,7 @@
     1. They must be registered for the tournament. 
     2. They are not in your group.
     3. The stand-in’s EchoLeague Rank, as displayed on their user profile page, must be less than or equal to that of the player they are standing in for
+        1. As an exception, any player of EL Rank 5 or lower may be used as a standin, at any time (with admin approval)
 2. To request a stand-in, a Team Member must use the ticket system or contact an admin with the following information before their game starts:
     1. Echo League Profile link of the player that you’re replacing for the series
     2. Echo League Profile link of the player that is standing-in for the series
@@ -150,18 +152,15 @@
         2. Top seeds in each group will advance
             1. Determined on a per-division basis
             2. Seeds & placement will be determined based off the 'Intra-Group' system listed in [TIEBREAKERS](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
-        3. Any remaining playoff spots will go to a number of 'wildcard' teams in each division
-            1. Teams considered for wildcard spots will be done on a per-division basis
-            2. Wildcards will advance based on the 'Inter-Group' system listed in [TIEBREAKERS](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
     2. Two week break after group stages
         1. This will be used for any tiebreaker playoffs, and for organizing for playoffs 
     3. Single Elimination playoffs
-        1. Will consist of 16/8/4 teams as determined on a per-division basis, based off of the division size
+        1. Will consist of no more than 16 teams as determined on a per-division basis, based off of the division size
         2. After the second round of playoffs, there will be a one-week intermission before the third round during TI7 (Aug 6th-12th)
 3. Each region will have 3 Divisions: An A-Tier, B-Tier, and C-Tier Division
     1. If some regions are underpopulated, we may reduce the number of tiers to help better fill divisions.  Group sizes or team placements may also be adjusted to better serve underpopulated divisions
 4. Each division will be limited to the number of teams allowed
-    1. There must be enough teams to fill enough groups to allow for  4, 8, or 16 playoff teams
+    1. There must be enough teams to fill enough groups to allow for playoffs
     2. Some groups may be padded with "BYE WEEK" teams if there are not enough registrations
     3. If we have too many registrations for one division, and cannot resolve it using a reasonable amount of "BYE WEEK" teams, we will remove teams by registration date
         1. Teams will be removed recentness of team registration date
@@ -210,6 +209,7 @@
 4. Remakes will be done as All Pick games with the same hero selections. If you have not completed the draft, the game will be restarted and the picks/bans will be copied exactly to the same point.
     1. A remake may be initiated at any point in the game if both teams agree.
     2. A remake may be initiated by only ONE team if it is done before the horn (due to lag/server issues being recognized)
+        1. Remake may not be called if a first-blood or deward has occurred
     3. Remakes may not be made for personal issues (individual player internet, computer issues, personal time issues)
 5. Only official lobbies from the tournament’s ticket will be accepted for official results.
     1. If tickets, lobby-bots, or lobby creators are unavailable at time of game start, players can create an unticketed lobby and provide proof as listed in IV.3

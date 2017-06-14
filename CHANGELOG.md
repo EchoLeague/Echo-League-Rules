@@ -1,5 +1,10 @@
 # Changelog
 
+### v2.1.0 - 6/11/2017
+Update roster change & standin rules
+Remove outdated wildcard rules
+Update remake rules
+
 ### v2.0.1 - 6/11/2017
 Clarify harassment rules.
 Add case regarding TI All-Chat voices 
