@@ -242,11 +242,11 @@
 8. Using all chat is forbidden (this excludes Chatwheel Phrases/Sounds), and will result in warning or penalty (as decided by administration) except in these circumstances:
     1. Explaining or discussing why a pause or issue has occurred.
     2. Polite pause-time discussion.
-    3. Wishing the other team, “Good luck, have fun”, greeting or giving "shout outs" or any other polite announcements.
+    3. Wishing the other team, “Good luck, have fun”, greeting or giving "shout outs", and/or any other polite announcements.
     4. Any polite post-game chatter ("Thanks for game", "good series", etc) before game is closed
-    4. Incidental typing, such as putting a rosh timer in all-chat instead of team chat, or an errant letter or number when moving quickly (e.g. "qwrr   22").  This does not apply to anything greater than that.
-9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in penalties.
-10. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) at the end or to end the game. Once “gg” is called, the game is instantly forfeited by the team who calls it, no exceptions will be made.
+    5. Incidental typing, such as putting a rosh timer in all-chat instead of team chat, or an errant letter or number when moving quickly (e.g. "qwrr   22").  This does not apply to anything greater than that.
+9. First all-chat offense for a team will result in an official warning from an admin, and every further offense will result in penalties applied to current or future series.
+10. Calling/saying “gg” (“Good Game”, “ggwp”, “gege”, or any other accepted variant) ends the game. Once “gg” is called, the game is instantly forfeited by the team who calls it
     1. If GG is called accidentally (though ChatWheel, etc) and subsequently cancelled, the offending team must say in all-chat that they have cancelled the GG so there is no confusion. Every cancelled GG will be reviewed by the admin team to ensure that it did not impact the outcome of the game
     2. Every cancelled GG will also be considered an 'all-chat' violation and be subject to punishment in accordance with rule VIII.9
 11. Pick order, Side, and Server will be determined in the following way:
@@ -303,10 +303,13 @@
     1. Casting for Echo League on ticket is a privilege which may revoked at the discretion of an admin in accordance with Echo League rules.
     2. Casters must report any suspected violation of rules to an admin. They may be asked for relevant information in order to help admins in their duties.
 
+<!--Add footnote here or scheduling about expectation of teams to work with grand-finals participants-->
+
+
 -----
 
 ## XI Disputes & Admin Enforcement
-1. All official admins (Echo League Staff) have the ability to enforce any of the above rules as they see fit.  Any regional moderators have the ability to enforce late-penalties and lobby-related punishments.
+1. All official admins (Echo League Staff) have the ability to enforce any of the above rules as they see fit.
 2. Any disputes about rules, punishments, or conduct should be brought up to admins via the help page or via private message
 3. Disputes should be substantiated by screenshots, chatlogs, game logs, and/or any other relevant evidence
     1. Hearsay will be dismissed
