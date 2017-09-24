@@ -1,5 +1,15 @@
 # Changelog
 
+### 9/24/2017
+Update S3 Draft Rules
+Add Inhouse Rules
+Add Community Conduct Rules
+Update README main doc.
+
+---
+*Rules are version agnostic after this point --- 9/24/2017*
+
+ 
 ### v2.1.0 - 6/11/2017
 Update roster change & standin rules
 Remove outdated wildcard rules
