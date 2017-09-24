@@ -15,9 +15,8 @@
 * [VI Tournament Format](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#vi-tournament-format)
 * [VII Scheduling](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#vii-scheduling)
 * [VIII Lobbies and In-Game Rules](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#viii-lobbies--in-game-rules)
-* [IX Community Conduct](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#ix-community-conduct)
-* [X Casters and Broadcasting](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#x-casters-and-broadcasting)
-* [XI Disputes](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#xi-disputes)
+* [IX Casters and Broadcasting](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#x-casters-and-broadcasting)
+* [X Disputes](https://github.com/EchoLeague/Echo-League-Rules/blob/master/RULES.md#xi-disputes)
 
 
 -----
@@ -255,36 +254,10 @@
     2. Losing team will then choose the remaining option and their preference
     3. For game two, the order is flipped.  The team that lost the coinflip will now choose the server played on, and then pick order or side of their choosing.  Team that won the coinflip will choose the remaining option and their preference
     4. Repeat the coinflip for games 3 and 5 as needed
------
-
-## IX Community Conduct
-
-1. Every member of the community is expected to follow the basic community guidelines when talking **in-game**, in **Discord** or in **game lobbies**:
-    1. No politics/religion chat at all.
-    2. No telling people to kill or harm themselves.
-    3. Minors may not post any identifying information or images.
-        1. This includes links to Social Media Pages.
-    4. No spam.
-    5. No personal attacks on users/teams/admins.
-    6. No content which may be considered offensive, pornographic, or otherwise unsuitable (nothing NSFW).  This includes discussion of, links to, using 3rd party emotes of, and image/video uploads.
-    7. No roleplaying in chat.
-2. Breaking community guidelines will result in the following punishments, based on severity:
-    1. Restricted chat permissions
-    2. 24h-48h ban from non-essential channels.
-    3. Permanent ban from non-essential channels.
-    4. Permanent ban from community discord.
-        1. Will result in losing “Team Organizer” status if you are currently holding that role on your team
-    5. Removal from league.
-3. Doxxing anyone in Echo League servers will result in immediate bans and removal from current and future instances of Echo League
-4. Creating alternate discord accounts to circumvent chat bans will result in removal from the league.
-5. No harassing others
-    1. This includes repeated, unwanted private messages, repeated mentions or pings in public channels, or any other unwanted communication or directed actions through any means.
-    2. Harassment does not need to occur within context of the league.  If a member of Echo League is actively singling out or harassing an individual they can be punished under this rule.
-6. Any rules above with punishments not explicitly defined will be assessed and levied by the admin team on a case-by-case basis.
 
 -----
 
-## X Casters and Broadcasting
+## IX Casters and Broadcasting
 1. Only approved casters are allowed to cast from ticket in lobby.
     1. Approved casters who attempt to bring in unapproved casters may be blacklisted from casting in Echo League.
     2. Individuals explicitly told not to cast from lobby will be banned from Echo League if they cast from a lobby on ticket
@@ -308,7 +281,7 @@
 
 -----
 
-## XI Disputes & Admin Enforcement
+## X Disputes & Admin Enforcement
 1. All official admins (Echo League Staff) have the ability to enforce any of the above rules as they see fit.
 2. Any disputes about rules, punishments, or conduct should be brought up to admins via the help page or via private message
 3. Disputes should be substantiated by screenshots, chatlogs, game logs, and/or any other relevant evidence
