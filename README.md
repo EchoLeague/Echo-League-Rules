@@ -1,4 +1,4 @@
-# Echo League Rules!
+# Echo League Rules
 The following repository is meant to hold all of the rules for the Echo League and it's events in an open, transparent location
 
 The full rules will always be publicly available in this repo, and we will do our best to maintain parity on the website: http://echoleague.gg
