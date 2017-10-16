@@ -25,8 +25,9 @@
 1. In order to be able to participate in this tournament, you must be adhere to all of the following requirements:
     1. You must have at least a publicly visible Solo and/or Party MMR at time of registration, even if not calibrated
     2. Your Solo or Party MMR must exceed 4500 MMR at time of registration
+        1. This can be overridden with Admin permission if someone below the floor is signing up with team of players above the floor
     3. You must have a "Prime" Dota 2 account (must have a phone number tied to the account, and be allowed to play ranked queue)
-    4. Your match history and MMR must be displayed at all times on all of the following; 
+    4. Your match history and MMR must be displayed at all times on all of the following:
         1. Dota Client.
         2. Dotabuff/OpenDota.
 2. Falsifying any registration data to bypass the tournament requirements will result in an immediate ban from the tournament.
@@ -144,7 +145,7 @@
         1. Groups will play a Round-Robin until they have played each opponent at least once
         2. Top seeds in each group will advance
             1. Determined on a per-division basis
-            2. Seeds & placement will be determined based off the 'Intra-Group' system listed in [SEEDING] (INSERT LINK)
+            2. Seeds & placement will be determined based off the 'Intra-Group' system listed in [TIEBREAKERS & SEEDING]((https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
     2. Two week break after group stages
         1. This will be used for any tiebreaker playoffs, and for organizing for playoffs 
     3. Single Elimination playoffs
@@ -209,6 +210,8 @@
     2. Players are exempt from this if there are known server issues affecting game playability
         1. Teams are allowed to reschedule matches, with admin approval, when known server issues are occurring
     3. Players are NOT exempt from personal computer or internet issues
+    4. Tactical Pauses are forbidden
+    5. Pauses during draft are forbidden
 4. Remakes will be done as All Pick games with the same hero selections. If you have not completed the draft, the game will be restarted and the picks/bans will be copied exactly to the same point.
     1. Remakes will be made on a case-by-case basis and must be approved by admins.
     2. Remakes may not be made for personal issues (individual player internet, computer issues, personal time issues)
