@@ -398,9 +398,9 @@ Appendix D: Additional Clarifications
     B: sample(c(Heads,Tails),1,replace=T)
 
 
-# Inter-Group Ties:
+# Playoff Seeding:
 
-## Use Cases
+## Use Cases:
 
 To be used to rank teams between groups for playoff seeding, and assign round-of-16 byes as necessary
 
@@ -428,6 +428,10 @@ After this has been done for all teams finishing at the same position in their r
 
 If there are still ties proceed to criteria four.
 
-## Criteria Four
+## Criteria Four:
 
 If teams are still tied after the first three methods, assign each tied team a number value, and roll a fair dice to determine seeding between the tied teams, highest score to lowest.
+
+## Note on Playoff Group-Stage Rematches:
+
+Playoff seedings may be altered by as much as 1 seed in order to prevent 1st-round rematches of group stage opponents, and potential 2nd-round rematches for teams receiving a round-of-16 bye.
