@@ -145,7 +145,7 @@
         1. Groups will play a Round-Robin until they have played each opponent at least once
         2. Top seeds in each group will advance
             1. Determined on a per-division basis
-            2. Seeds & placement will be determined based off the 'Intra-Group' system listed in [TIEBREAKERS & SEEDING]((https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS.md)
+            2. Seeds & placement will be determined based off the 'Intra-Group' system listed in [TIEBREAKERS & SEEDING]((https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS%20AND%20SEEDING.md)
     2. Two week break after group stages
         1. This will be used for any tiebreaker playoffs, and for organizing for playoffs 
     3. Single Elimination playoffs
