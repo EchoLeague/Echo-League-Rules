@@ -11,11 +11,11 @@
 * [III Team Rules](#iii-team-rules)
 * [IV Team Organizers](#iv-team-organizers)
 * [V Stand-ins](#v-stand-ins)
-* [VI Tournament Format](#vi-tournament-format)
+* [VI Tournament Format](#vi-league-format)
 * [VII Scheduling](#vii-scheduling)
 * [VIII Lobbies and In-Game Rules](#viii-lobbies--in-game-rules)
-* [IX Casters and Broadcasting](#x-casters-and-broadcasting)
-* [X Disputes](#xi-disputes)
+* [IX Casters and Broadcasting](#ix-casters-and-broadcasting)
+* [X Disputes](#x-disputes--admin-enforcement)
 
 
 -----
@@ -156,7 +156,7 @@
         1. Groups will play a Round-Robin until they have played each opponent at least once
         2. Top seeds in each group will advance
             1. Determined on a per-division basis
-            2. Seeds & placement will be determined based off the 'Intra-Group' system listed in [TIEBREAKERS & SEEDING]((https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS%20AND%20SEEDING.md)
+            2. Seeds & placement will be determined based off the 'Intra-Group' system listed in [TIEBREAKERS & SEEDING](https://github.com/EchoLeague/Echo-League-Rules/blob/master/TIEBREAKERS%20AND%20SEEDING.md)
     2. Two week break after group stages
         1. This will be used for any tiebreaker playoffs, and for organizing for playoffs 
     3. Single Elimination playoffs
