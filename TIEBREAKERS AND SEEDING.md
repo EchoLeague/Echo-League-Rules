@@ -297,38 +297,19 @@ Appendix A: The general tie-breaker pool
 ========================================
 
 1.  Each division has a general tie-breaker pool of teams from their
-    division. This pool is formed when teams are sent there to find a
-    playoff opponent by one of the scenarios.
+    division and region. This pool is formed when teams are sent there to
+    find a playoff opponent by one of the scenarios.
 
-2.  Teams from Division A, B, and C cannot be matched against teams from
-    another division letter (e.g. division B teams cannot play division
-    C teams).
+2.  Teams from each division will be assigned a random number. The
+    team with the lowest random number in each division will play the
+    team with the second lowest random number in the division, the
+    team with the third lowest random number in the division will
+    play the team with the fourth lowest random number in the division,
+    and so on as long as there is another opponent in the
+    division available. Any remaining teams without an opponent will
+    receive a bye.
 
-3.  Teams from the SEA division can only be matched with other teams
-    from the SEA division and cannot play a team from the US or
-    EU division.
-
-4.  Teams from the US division will be assigned a random number. The
-    team with the lowest random number in the US division will play the
-    team with the second lowest random number in the US division, the
-    team with the third lowest random number in the US division will
-    play the team with the fourth lowest random number in the US
-    division, and so on as long as there is another opponent in the US
-    division available. This process is repeated for the EU division and
-    the SEA division. If there are an odd number of teams in the US or
-    EU divisions then teams should refer to section 5. Section 6 and
-    Section 7 can override this rule.
-
-5.  If it is the case that there are an odd number of teams in both the
-    US and EU divisions in the pool, then the highest number team in US
-    and EU will play a BO1 against each other with the server set to
-    U.S. East. If there are an odd number of teams in the U.S. but an
-    even number of teams in the EU division then the U.S. team with the
-    highest number will get a bye. If there are an odd number of EU
-    teams but an even number of U.S. teams then the EU team with the
-    highest number will get a bye.
-
-6.  In case Scenario 8 section 9 occurs in exactly one group then the
+3.  In case Scenario 8 section 9 occurs in exactly one group then the
     winner of GAME B will be assigned random number 0. If there are only
     two teams that enter the pool (the fifth team from scenario 8 and
     the winner of GAME B) then both pool games will end in a bye.
@@ -338,7 +319,7 @@ Appendix A: The general tie-breaker pool
     the second lowest random number, this process is repeated until it
     is no longer the case.
 
-7.  In case scenario 8 section 9 occurs for two or more groups, then the
+4.  In case scenario 8 section 9 occurs for two or more groups, then the
     winner of GAME B from each group will be assigned a random number
     that will then be multiplied by $10^{-1000}$.
 
@@ -374,9 +355,7 @@ Appendix C: Tie-Breaker Games
     flip wins are considered coin flip wins, but coin flips that do not
     occur due to a team being late to join a lobby are not counted.
 
-3.  As previously stated if an EU team plays a US team the server will
-    be U.S. East. Otherwise, the default server for the division will
-    be used.
+3.  The default server for the division will be used.
 
 4.  If there is an outage on a server, the admin team reserves the right
     to force the game to be played on another server or delay the game
