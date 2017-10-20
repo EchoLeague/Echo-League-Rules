@@ -402,7 +402,9 @@ Appendix D: Additional Clarifications
 
 ## Use Cases:
 
-To be used to rank teams between groups for playoff seeding, and assign round-of-16 byes as necessary
+To be used to rank teams between groups for playoff seeding, and assign
+round-of-16 byes as necessary.  Seeding is determined by the following
+critera, in descending priority.
 
 ## Criteria One:
 
@@ -410,28 +412,55 @@ Placement in group, after applying all intra-group tiebreakers.
 
 ## Criteria Two:
 
-At end of group stages, assign a point value to each team guaranteed to advance onto the playoffs from their group. Do so in descending order, so the top seeded team is worth the most points (e.g. 3 teams advancing, 1 seed is worth 3 points, 2 seed is worth 2 points, 3 seed is worth 1 point).
+Calculate each teams "seeding score" by dividing the team's points within their
+group by the number of total teams in the group at the beginning of the season.
 
-For playoff teams finishing at the same position in their respective groups, take their record against the other advancing teams within their group, and assign points equal to each advancing team's weight for each win the team has against an advancing team.  (e.g., team is 0-2 against the 1 seed, gaining 0 points.  2-0 vs the 2 seed, gaining 4 points, and 1-1 against the 3rd seed, gaining 1 point.   Total of 5 points).
-
-After this has been done for all teams finishing at the same position in their respective groups, compare their value and seed teams accordingly from highest score to lowest.
-
-If there are ties proceed to criteria three.
+For example, a team in a group which only has 5 teams (and one BYE spot) and
+finishes the season 3-0-1 (10 total points) would have a playoff score of 2.0.
 
 ## Criteria Three:
 
-At end of group stages, assign a point value to each team guaranteed to advance onto the playoffs from their group. Each team's points should be equal to their EL Rank at the end of the season.
+At end of group stages, assign a point value to each team guaranteed to advance
+onto the playoffs from their group. Do so in descending order, so the top seeded
+team is worth the most points (e.g. 3 teams advancing, 1 seed is worth 3 points,
+2 seed is worth 2 points, 3 seed is worth 1 point).
 
-For playoff teams finishing at the same position in their respective groups, take their record agains the other advancing teams within their group, and assign points equal to each advancing team's EL Rank for each win the team has against an advancing team.
+For playoff teams finishing at the same position in their respective groups, take
+their record against the other advancing teams within their group, and assign 
+points equal to each advancing team's weight for each win the team has against
+an advancing team.  (e.g., team is 0-2 against the 1 seed, gaining 0 points.
+2-0 vs the 2 seed, gaining 4 points, and 1-1 against the 3rd seed, gaining 1
+point. Total of 5 points).
 
-After this has been done for all teams finishing at the same position in their respective groups, compare their value and seed teams accordingly from highest score to lowest.
-
-If there are still ties proceed to criteria four.
+After this has been done for all teams finishing at the same position in their
+respective groups, compare their value and seed teams accordingly from highest
+score to lowest.
 
 ## Criteria Four:
 
-If teams are still tied after the first three methods, assign each tied team a number value, and roll a fair dice to determine seeding between the tied teams, highest score to lowest.
+At end of group stages, assign a point value to each team guaranteed to advance
+onto the playoffs from their group. Each team's points should be equal to their
+EL Rank at the end of the season.
+
+For playoff teams finishing at the same position in their respective groups, take
+their record agains the other advancing teams within their group, and assign
+points equal to each advancing team's EL Rank for each win the team has against
+an advancing team.
+
+After this has been done for all teams finishing at the same position in their
+respective groups, compare their value and seed teams accordingly from highest
+score to lowest.
+
+If there are still ties proceed to criteria four.
+
+## Criteria Five:
+
+If teams are still tied after the first three methods, assign each tied team a
+number value, and roll a fair dice to determine seeding between the tied teams,
+highest score to lowest.
 
 ## Note on Playoff Group-Stage Rematches:
 
-Playoff seedings may be altered by as much as 1 seed in order to prevent 1st-round rematches of group stage opponents, and potential 2nd-round rematches for teams receiving a round-of-16 bye.
+Playoff seedings may be altered by as much as 1 seed in order to prevent
+1st-round rematches of group stage opponents, and potential 2nd-round rematches
+for teams receiving a round-of-16 bye.
