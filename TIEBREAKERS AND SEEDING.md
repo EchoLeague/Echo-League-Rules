@@ -392,10 +392,12 @@ Placement in group, after applying all intra-group tiebreakers.
 ## Criteria Two:
 
 Calculate each teams "seeding score" by dividing the team's points within their
-group by the number of total teams in the group at the beginning of the season.
+group by one less than the number of total teams in the group at the beginning
+of the season.
 
-For example, a team in a group which only has 5 teams (and one BYE spot) and
-finishes the season 3-0-1 (10 total points) would have a playoff score of 2.0.
+For example: a team in a group which has 5 teams (and one BYE spot) and
+finishes the season 3-0-1 (10 total points) would have a seeding score
+of 2.5 (10 points divided by (5-1)).
 
 ## Criteria Three:
 
